@@ -1,8 +1,6 @@
-# -
-دليل المسلم_privacy_policy
 
 # Privacy Policy
-Effective date: January 20, 2019
+Effective date: June 30, 2019
 
 دليل المسلم ("us", "we", or "our") operates the دليل المسلم mobile application (the "Service").
 
